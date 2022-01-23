@@ -1,0 +1,15 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(úœ°
+j	java:S116"URename this field "OPERATIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†„ü•
+D
+java:S1068".Remove this unused "OPERATIONS" private field.(†„ü•
+F
+java:S1144&"0Remove this unused private "getAddition" method.(Æéãè
+O
+java:S1144*"4Remove this unused private "getSubstraction" method.(éÄÔ—şÿÿÿÿ
+L
+java:S1144."6Remove this unused private "getMultiplication" method.(¨ûò‘
+K
+java:S11442"0Remove this unused private "getDivision" method.(…¬·Ãşÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­§
